@@ -9,11 +9,11 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |  Day | Deliverable | Status
 |---|---| ---|
 |PreWork| Whiteboad Wireframming | Done
-|Day 1| Nav Bar & Photo | Incomplete
-|Day 2| Wireframes / Priority Matrix / Timeline | Incomplete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Day 4| MVP & Bug Fixes | Incomplete
-|Day 5| Final Touches | Incomplete
+|Day 1| Nav Bar & Photo, about me | Incomplete
+|Day 2| Flexbox and Grid | Incomplete
+|Day 3| Background, Schooling, Resume Download | Incomplete
+|Day 4| Decoration, Bug fixes | Incomplete
+|Day 5| Bug Fixes, Final Touches | Incomplete
 |Day 6| Present | Incomplete
 
 [my wireframe](./images/IMG_1043.jpeg)
