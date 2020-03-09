@@ -18,7 +18,9 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 [my wireframe](./images/IMG_1043.jpeg)
 
-[TPM](./images/PriorityMatrix.png)
+[Time Priority Matrix](./images/PriorityMatrix.png)
+
+
 
 ## Project Description
 
@@ -26,7 +28,9 @@ Use this section to describe your final project and perhaps any links to relevan
 
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
+https://docs.google.com/spreadsheets/d/1-fYybuYXtChuaZc83JI35Pp0NER3E5oz6RC5sboKoVU/edit?usp=sharing
+
+
 
 ## Wireframes
 
@@ -35,15 +39,11 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 [https://www.figma.com/](https://www.figma.com/)
 [https://mockflow.com/app/#Wireframe](https://mockflow.com/app/#Wireframe)
 
+[my wireframe](./images/IMG_1043.jpeg)
+
 ## Time/Priority Matrix 
 
-Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
-
-Now draw a vertical line on the y axis.  The top of this line should have `High` and the bottom `Low`.  This line will be used to assign a priority to to each feature you wish to include in the project.  
-
-Now create a separate list starting with A and assign it one of the features.  Continue to assign each feature a letter.  Once complete add each letter to the matrix assigning based on what your feel it's prioirty is an how long it will take to implement. If any one feature takes longer than 2hrs to complete than break it down into smaller tasks and reassign them a new letter. 
-
-Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
+[Time Priority Matrix](./images/PriorityMatrix.png)
 
 ### MVP/PostMVP - 5min
 
@@ -51,14 +51,26 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP (examples)
 
-- Pull data using google json api
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+Component
+Whiteboard wireframe
+nav bar
+photo and about me
+Flexbox
+Grid
+barckground/schooling
+contact form
+
+
 
 #### PostMVP 
 
-- Anything else that is not MVP
+Carosel for flexbox
+Create cards in grid
+hamburger menu
+info button on cards
+Add responsive to nav
+add decoration to site
+
 
 ## Functional Components
 
