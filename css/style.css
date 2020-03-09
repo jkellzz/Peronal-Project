@@ -1,6 +1,4 @@
 .description {
-    width: 100vw;
-    height: 60vh;
     display: flex;
     flex-direction: column;
     background-size: cover;
@@ -9,5 +7,31 @@
 body {
     width: 100%;
     height: 100%;
+}
+
+.front {
+    color: whitesmoke;
+    position: absolute;
+    align-self: center;
+    padding: 1em;
+}
+
+.front p {
+    font-size: large;
+    
+}
+
+#code {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    text-align: center;
+    background-color: white;
+}
+
+.between h1 {
+    padding: 1em;
+    text-align: center;
+    font-family: cursive;
 }
 

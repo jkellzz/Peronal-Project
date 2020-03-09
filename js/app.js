@@ -34,3 +34,7 @@ function app (projects) {
 // let projects = [
 //    {title: 'title of project', image: 'image url', description: 'some desc', url: 'url to project'}
 //  ]
+
+// for(let i = 0; i < projects.length; i++) {
+//   console.log(projects)
+// }
