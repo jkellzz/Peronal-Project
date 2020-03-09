@@ -3,9 +3,7 @@
     height: 60vh;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    padding: 1em;
-    background-image: url();
+    background-size: cover;
 }
 
 body {

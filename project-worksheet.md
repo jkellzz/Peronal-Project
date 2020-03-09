@@ -18,6 +18,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 [my wireframe](./images/IMG_1043.jpeg)
 
+[TPM]()
 
 ## Project Description
 
@@ -67,12 +68,24 @@ Time frames are also key in the development cycle.  You have limited time to cod
 
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| Whiteboard Wireframe | H | 30 min | 30 min | 30 min |
+| Nav Bar | H | 3hrs| 0hrs | 0hrs |
+| About me | H | 3hrs| 0hrs | 0hrs |
+| Flexbox | H | 4hrs| 0hrs | 0hrs |
+| Grid | H | 4hrs| 0hrs | 0hrs |
+| Background | H | 4hrs| 0hrs | 0hrs |
+| Contact Form | H | 4hrs| 0hrs | 0hrs |
+| Carosel | M | 2hrs| 0hrs | 0hrs |
+| Grid Cards | M | 2hrs| 0hrs | 0hrs |
+| Info Button on cards | M | 4hrs| 0hrs | 0hrs |
+| Nav Responsiveness | M | 4hrs| 0hrs | 0hrs |
+| Decoration | M | 2hrs| 0hrs | 0hrs |
+| Total |  | 38hrs| 0hrs | 0hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
+ getBootstrap.com
+
 
 ## Code Snippet
 
