@@ -18,7 +18,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 [my wireframe](./images/IMG_1043.jpeg)
 
-[TPM]()
+[TPM](./images/PriorityMatrix.png)
 
 ## Project Description
 
@@ -83,7 +83,8 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Total |  | 38hrs| 0hrs | 0hrs |
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project. 
+ Use this section to list all supporting libraries and thier role in the project.
+
  getBootstrap.com
 
 
