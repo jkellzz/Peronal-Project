@@ -16,7 +16,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
 
-[my wireframe](./images/img_1043.jpeg)
+[my wireframe](./images/IMG_1043.jpeg)
 
 
 ## Project Description
