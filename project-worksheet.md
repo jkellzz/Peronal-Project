@@ -8,8 +8,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|PreWork| Whiteboad Wireframming | Done
-|Day 1| Nav Bar & Photo, about me | Incomplete
+|PreWork| Whiteboad Wireframming | Complete
+|Day 1| Nav Bar & Photo, about me | Complete
 |Day 2| Flexbox and Grid | Incomplete
 |Day 3| Background, Schooling, Resume Download | Incomplete
 |Day 4| Decoration, Bug fixes | Incomplete
@@ -97,8 +97,8 @@ Time frames are also key in the development cycle.  You have limited time to cod
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project.
 
- getBootstrap.com
-
+ getBootstrap.com (pulled a carosel from here)
+https://www.w3schools.com/howto/howto_css_contact_form.asp  (pulled a simple contact form from here.)
 
 ## Code Snippet
 
