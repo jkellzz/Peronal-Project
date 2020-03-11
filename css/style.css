@@ -2,6 +2,11 @@
     display: flex;
     flex-direction: column;
     background-size: cover;
+    background-color: #343A40;
+    justify-content: center;
+    width: 100vw;
+    height: 50vh;
+    align-items: center;
 }
 
 body {
@@ -9,16 +14,21 @@ body {
     height: 100%;
 }
 
+.fab fa-linkedin {
+    z-index: 1;
+}
 .front {
     color: whitesmoke;
-    position: absolute;
     align-self: center;
-    padding: 1em;
-    opacity: .8;
+    font-family: 'Caveat Brush', cursive;
+    text-align: center;
 }
 
 .front p {
-    font-size: large;
+    font-size: x-large;
+    text-align: center;
+    padding: .5em;
+    max-width: 60vw;
 }
 
 #grid-container {
@@ -45,39 +55,23 @@ body {
     width: 100%;
     padding: 1em;
     text-align: center;
-    font-family: cursive;
     text-decoration: underline;
+    font-size: xx-large;
 }
 
-
-.background {
-    display: flex;
-    flex: 1;
-    justify-content: space-around;
+.logo {
+    color: white;
 }
 
-.front1 {
-    display: flex;
-    color: black;    
+.snip { 
+    padding: 1em;
 }
-
-
-.front2 {
-    color: black;    
-}
-
-
-.front3 {
-    color: black;
-}
-
 
 .background p {
     display: flex;
     flex: 1;
     padding: 1em;
     justify-content: center;
-    
 }
 
 .one {

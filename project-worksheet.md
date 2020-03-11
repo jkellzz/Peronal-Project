@@ -10,8 +10,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |---|---| ---|
 |PreWork| Whiteboad Wireframming | Complete
 |Day 1| Nav Bar & Photo, about me | Complete
-|Day 2| Flexbox and Grid | Incomplete
-|Day 3| Background, Schooling, Resume Download | Incomplete
+|Day 2| Flexbox and Grid | Complete
+|Day 3| Background, Schooling, Resume Download | Complete
 |Day 4| Decoration, Bug fixes | Incomplete
 |Day 5| Bug Fixes, Final Touches | Incomplete
 |Day 6| Present | Incomplete
@@ -81,14 +81,14 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Whiteboard Wireframe | H | 30 min | 30 min | 30 min |
-| Nav Bar | H | 3hrs| 0hrs | 0hrs |
-| About me | H | 3hrs| 0hrs | 0hrs |
-| Flexbox | H | 4hrs| 0hrs | 0hrs |
-| Grid | H | 4hrs| 0hrs | 0hrs |
-| Background | H | 4hrs| 0hrs | 0hrs |
-| Contact Form | H | 4hrs| 0hrs | 0hrs |
-| Carosel | M | 2hrs| 0hrs | 0hrs |
-| Grid Cards | M | 2hrs| 0hrs | 0hrs |
+| Nav Bar | H | 3hrs| 1.5hrs | 2hrs |
+| About me | H | 3hrs| 1hrs | 1hrs |
+| Flexbox | H | 4hrs| 3hrs | 3hrs |
+| Grid | H | 4hrs| 3hrs | 3hrs |
+| Background | H | 4hrs| 2hrs | 2hrs |
+| Contact Form | H | 4hrs| 1hrs | 1hrs |
+| Carosel | M | 2hrs| 1hrs | 1hrs |
+| Grid Cards | M | 2hrs| 1hrs | 1hrs |
 | Info Button on cards | M | 4hrs| 0hrs | 0hrs |
 | Nav Responsiveness | M | 4hrs| 0hrs | 0hrs |
 | Decoration | M | 2hrs| 0hrs | 0hrs |
