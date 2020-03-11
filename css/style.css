@@ -5,7 +5,7 @@
     background-color: #343A40;
     justify-content: center;
     width: 100vw;
-    height: 50vh;
+    height: 80vh;
     align-items: center;
 }
 
@@ -14,21 +14,20 @@ body {
     height: 100%;
 }
 
-.fab fa-linkedin {
-    z-index: 1;
-}
 .front {
     color: whitesmoke;
     align-self: center;
-    font-family: 'Caveat Brush', cursive;
     text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
 }
 
 .front p {
     font-size: x-large;
     text-align: center;
-    padding: .5em;
+    padding-top: 2em;
     max-width: 60vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #grid-container {
@@ -61,6 +60,7 @@ body {
 
 .logo {
     color: white;
+    padding: 1em;
 }
 
 .snip { 
