@@ -44,14 +44,14 @@ body {
 #grid-container div {
     height: 73%;
     border: 15px solid #343A40;
-    height: 80vh;
+    height: 100vh;
     padding-bottom: 5em;
 
 }
 
 #grid-container a {
     color: white;
-    font-size: large;
+    font-size: xx-large;
 }
 
 .between h1 {
@@ -83,6 +83,10 @@ body {
 .one {
     border-left: 1px solid black;
     border-right: 1px solid black;
+}
+
+.snip .pick {
+    color: yellowgreen;
 }
 
 input[type=text], select, textarea {
@@ -143,13 +147,13 @@ input[type=text], select, textarea {
     #grid-container div {
         height: 73%;
         border: 15px solid #343A40;
-        height: 20vh;
+        height: 17vh;
         padding-bottom: .5em;
     }
 
     #grid-container a {
         color: white;
-        font-size: 15px;
+        font-size: 16px;
     }
   }
 
@@ -160,6 +164,10 @@ input[type=text], select, textarea {
         height: 42vh;
         padding-bottom: 5em;
     }
+    #grid-container a {
+        color: white;
+        font-size: larger;
+    }
  }
 
  @media (min-width: 769px) and (max-width: 1024px) {
@@ -169,6 +177,10 @@ input[type=text], select, textarea {
         height: 50vh;
         padding-bottom: 5em;
     }
+    #grid-container a {
+        color: white;
+        font-size: x-large;
+    }
  }
 
  @media (min-width: 1025px) and (max-width: 1440px) {
@@ -177,6 +189,10 @@ input[type=text], select, textarea {
         border: 15px solid #343A40;
         height: 65vh;
         padding-bottom: 5em;
+    }
+    #grid-container a {
+        color: white;
+        font-size: x-large;
     }
  }
  
