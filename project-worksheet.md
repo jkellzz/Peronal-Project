@@ -12,9 +12,9 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |Day 1| Nav Bar & Photo, about me | Complete
 |Day 2| Flexbox and Grid | Complete
 |Day 3| Background, Schooling, Resume Download | Complete
-|Day 4| Decoration, Bug fixes | Incomplete
-|Day 5| Bug Fixes, Final Touches | Incomplete
-|Day 6| Present | Incomplete
+|Day 4| Decoration, Bug fixes | Complete
+|Day 5| Bug Fixes, Final Touches | Complete
+|Day 6| Present | Ready
 
 [my wireframe](./images/IMG_1043.jpeg)
 
@@ -81,24 +81,24 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Whiteboard Wireframe | H | 30 min | 30 min | 30 min |
-| Nav Bar | H | 3hrs| 1.5hrs | 2hrs |
-| About me | H | 3hrs| 1hrs | 1hrs |
+| Nav Bar | H | 3hrs| 3hrs | 3hrs |
+| About me | H | 3hrs| 3hrs | 3hrs |
 | Flexbox | H | 4hrs| 3hrs | 3hrs |
 | Grid | H | 4hrs| 3hrs | 3hrs |
-| Background | H | 4hrs| 2hrs | 2hrs |
+| Background | H | 4hrs| 3hrs | 3hrs |
 | Contact Form | H | 4hrs| 1hrs | 1hrs |
-| Carosel | M | 2hrs| 1hrs | 1hrs |
-| Grid Cards | M | 2hrs| 1hrs | 1hrs |
-| Info Button on cards | M | 4hrs| 0hrs | 0hrs |
-| Nav Responsiveness | M | 4hrs| 0hrs | 0hrs |
-| Decoration | M | 2hrs| 0hrs | 0hrs |
-| Total |  | 38hrs| 0hrs | 0hrs |
+| Carosel | M | 2hrs| 2hrs | 2hrs |
+| Grid Cards | M | 2hrs| 3hrs | 3hrs |
+| Info Button on cards | M | 4hrs| 4hrs | 0hrs |
+| Nav Responsiveness | M | 4hrs| 2hrs | 0hrs |
+| Decoration | M | 2hrs| 3hrs | 3hrs |
+| Total |  | 36.5hrs| 30.5hrs | 24.5hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project.
 
  getBootstrap.com (pulled a carosel from here)
-https://www.w3schools.com/howto/howto_css_contact_form.asp  (pulled a simple contact form from here.)
+https://www.w3schools.com/howto/howto_css_contact_form.asp  (pulled a simple contact form from here.)//update, did not end up using the contact form.
 
 ## Code Snippet
 
@@ -111,8 +111,9 @@ function reverse(string) {
 ```
 
 ## Issues and Resolutions
- Use this section to list of all major issues encountered and their resolution.
+**ERROR**: 
+Contact form was not working correctly.                               
+**RESOLUTION**: 
+Tried several solutions, none of them worked. Ended up nixing the contact form and adding a different way to contact me via email using a link in my about section. 
 
-#### SAMPLE.....
-**ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
-**RESOLUTION**: Missing comma after first object in sources {} object
+

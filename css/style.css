@@ -44,7 +44,7 @@ body {
 #grid-container div {
     height: 73%;
     border: 15px solid #343A40;
-    height: 100vh;
+    height: 90vh;
     padding-bottom: 5em;
 
 }
@@ -161,7 +161,7 @@ input[type=text], select, textarea {
     #grid-container div {
         height: 73%;
         border: 15px solid #343A40;
-        height: 42vh;
+        height: 35vh;
         padding-bottom: 5em;
     }
     #grid-container a {
@@ -174,7 +174,7 @@ input[type=text], select, textarea {
     #grid-container div {
         height: 73%;
         border: 15px solid #343A40;
-        height: 50vh;
+        height: 45vh;
         padding-bottom: 5em;
     }
     #grid-container a {
@@ -187,7 +187,7 @@ input[type=text], select, textarea {
     #grid-container div {
         height: 73%;
         border: 15px solid #343A40;
-        height: 65vh;
+        height: 55vh;
         padding-bottom: 5em;
     }
     #grid-container a {
