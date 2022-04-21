@@ -31,7 +31,7 @@ fetch(source)
 function app(projects) {
 console.log('app - projects', projects)
 
-  //the rest of the code goes here, like what we need to do with the data
+  //the rest of the code goes here, what we need to do with the data
   function createMyProjects(){
     for(let i =0; i < projects.length; i++){
         let $article = $(`
