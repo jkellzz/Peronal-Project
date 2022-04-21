@@ -182,14 +182,12 @@ body {
 }
 
 .folders {
-    display: flex;
-    justify-content: center;
     color: white;
     padding: 1em;
 }
 
 #grid-container {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
